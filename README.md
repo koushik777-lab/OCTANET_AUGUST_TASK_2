@@ -13,9 +13,14 @@ Welcome to the **My To-Do List App** repository! This simple yet powerful web ap
 - **✅ Check/Uncheck a Task:** Click on the checkbox next to the task to mark it as completed or incomplete.
 - **❌ Delete a Task:** Click on the ❌ icon next to a task to remove it from your list.
 
+## 🛠️ Technologies Used
+- **HTML5** for structuring the content.
+- **CSS3** for styling and layout.
+- **JavaScript** for adding interactivity.
+
 ## 🌐 Live Demo
 Check out the live demo here: [My To-Do List App](https://your-github-username.github.io/your-todo-list-repo/)
 
 ## 💻 Getting Started
-If you'd like to explore the code or contribute to the project, feel free to clone this repository:
+If you'd like to explore the code or contribute to the project, feel free to clone this repository..
 
