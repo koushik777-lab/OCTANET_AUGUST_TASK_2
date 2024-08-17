@@ -19,7 +19,7 @@ Welcome to the **My To-Do List App** repository! This simple yet powerful web ap
 - **JavaScript** for adding interactivity.
 
 ## 🌐 Live Demo
-Check out the live demo here: [My To-Do List App](https://your-github-username.github.io/your-todo-list-repo/)
+Check out the live demo here: https://koushik777-lab.github.io/OCTANET_AUGUST_TASK_2/
 
 ## 💻 Getting Started
 If you'd like to explore the code or contribute to the project, feel free to clone this repository..
